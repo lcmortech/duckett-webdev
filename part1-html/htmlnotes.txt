@@ -1,5 +1,13 @@
 Extra Notes on HTML Elements
 
+Lists:
+<ul>, <ol>, <dl> (definition list) -> <dt> (term) and <dd> (definition)
+
+Tables:
+<table> -> <tr> ->  <td> or <th>
+colspan, rowspan attributes
+
+
 Block Level Elements:
 Examples of block elements are:
 <h1>, <p>, <ul>, and <li>>.
