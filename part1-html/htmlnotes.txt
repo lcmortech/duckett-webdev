@@ -1,0 +1,5 @@
+Extra Notes on HTML Elements
+
+Block Level Elements:
+Examples of block elements are:
+<h1>, <p>, <ul>, and <li>>.
