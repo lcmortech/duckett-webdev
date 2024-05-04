@@ -19,3 +19,5 @@ Examples of inline elements are:
 <span> is the main inline level grouping block element
 
 <iframe> - iframe is an abbreviation for "inline frame"
+attributes used: src, height, width, and seamless (html5)
+html 4 and earlier attributes: scrolling and frameborder (removed in html5)
