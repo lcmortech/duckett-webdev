@@ -10,8 +10,10 @@ colspan, rowspan attributes
 
 Block Level Elements:
 Examples of block elements are:
-<h1>, <p>, <ul>, and <li>>.
+<h1>, <p>, <ul>, and <li>
+<div> is the main block level grouping element
 
 Inline Level Elements:
 Examples of inline elements are:
 <a>, <b>, <em>, and <img> (NOT block)
+<span> is the main inline level grouping block element
