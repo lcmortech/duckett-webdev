@@ -11,3 +11,7 @@ colspan, rowspan attributes
 Block Level Elements:
 Examples of block elements are:
 <h1>, <p>, <ul>, and <li>>.
+
+Inline Level Elements:
+Examples of inline elements are:
+<a>, <b>, <em>, and <img> (NOT block)
