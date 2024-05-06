@@ -21,3 +21,7 @@ Examples of inline elements are:
 <iframe> - iframe is an abbreviation for "inline frame"
 attributes used: src, height, width, and seamless (html5)
 html 4 and earlier attributes: scrolling and frameborder (removed in html5)
+
+Meta tag <meta>:
+- lives inside the <head> element and contains info about that webpage
+- not visable to users, but tells search engines about your page
