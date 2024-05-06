@@ -25,3 +25,10 @@ html 4 and earlier attributes: scrolling and frameborder (removed in html5)
 Meta tag <meta>:
 - lives inside the <head> element and contains info about that webpage
 - not visable to users, but tells search engines about your page
+- it's an empty element and does not have a closing tag, but uses its attributes to carry information
+- its most common attributes are the "name" and "content" attributes, which tend to be used together to specify properties of the entire page
+L Values used within the "name" attribute of the <meta> tag:
+"description" - contains a description of the page
+"keywords" - contains a list of comma-separated words that a user might search on to find the page.
+"robots" - indicates whether search engines should add this to their search results or not. - A value of noindex can be used if this page should not be added. 
+- A value of nofollow can be used if search engines should add this page in their results but not any pages that it links to.
