@@ -33,7 +33,7 @@ L Values used within the "name" attribute of the <meta> tag:
 "robots" - indicates whether search engines should add this to their search results or not. - A value of noindex can be used if this page should not be added. 
 - A value of nofollow can be used if search engines should add this page in their results but not any pages that it links to.
 
-- The <meta> element also uses the "http-equiv" and "content" attributes in pairs:
+- The <meta> element also uses the "http-equiv" and "content" attributes in pairs: (corresponds to ex8a)
 author: this defines the author of the webpage
 pragma: this prevents the browser from caching the page
 expires: indicates when the page should expire and no longer be cached
