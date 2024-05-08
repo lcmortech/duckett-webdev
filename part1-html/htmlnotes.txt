@@ -37,3 +37,8 @@ L Values used within the "name" attribute of the <meta> tag:
 author: this defines the author of the webpage
 pragma: this prevents the browser from caching the page
 expires: indicates when the page should expire and no longer be cached
+
+Escape Characters:
+- Not all fonts support escape characters, so it's important to specify a different font that does in your CSS code.
+Copyright = &copy
+Ampersand = &amp
