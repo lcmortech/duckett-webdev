@@ -50,5 +50,16 @@ Flash Video:
 
 HTML5 Video:
 <video> - This element is used to add html5 video to a web page. It takes the following attributes:
+- src
+- poster
+- width, height
+- controls
+- autoplay
+- loop
+- preload
+- none
+- auto
+- metadata
+
 src - specifies the path to the video
 poster - allows you to specify an image to show while the video is downloading or until the user tells the video to play (thumbnail)
