@@ -62,4 +62,13 @@ HTML5 Video:
 - metadata
 
 src - specifies the path to the video
+
 poster - allows you to specify an image to show while the video is downloading or until the user tells the video to play (thumbnail)
+
+width, height - specify the size of the player in pixels
+
+controls - has the video supply its own controls for playback
+
+autoplay - specifies that the file should play automatically
+
+loop - indicates for the video to start playing again once it has ended
