@@ -75,4 +75,5 @@ loop - indicates for the video to start playing again once it has ended
 
 preload - this attribute tells the browser what to do when the page loads. It can have one of three values: none, auto, and metadata
 none - the browser should not load the video until the user presses play
-auto
+auto - the browser should download the video when the page loads
+metadata - the browser should just collect information such as the size, first frame, track list, and duration
