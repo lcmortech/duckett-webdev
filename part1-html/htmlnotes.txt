@@ -72,3 +72,7 @@ controls - has the video supply its own controls for playback
 autoplay - specifies that the file should play automatically
 
 loop - indicates for the video to start playing again once it has ended
+
+preload - this attribute tells the browser what to do when the page loads. It can have one of three values: none, auto, and metadata
+none - the browser should not load the video until the user presses play
+auto
