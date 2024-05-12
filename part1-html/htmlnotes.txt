@@ -82,3 +82,8 @@ metadata - the browser should just collect information such as the size, first f
 <video>
     <source />
 </video>
+- You can also use multiple <source> elements to specify that the video is available in diff formats.
+Attributes taken by the <source> element:
+src - specifies the path to the video
+type - tells the browser what format the video is. It prevents the browser from downloading some of the video file to see if it can be played (saves bandwidth)
+codecs - supplies the codec that was used to encode the video. It uses single and double quotes in the type attribute when supplied.
