@@ -87,3 +87,4 @@ Attributes taken by the <source> element:
 src - specifies the path to the video
 type - tells the browser what format the video is. It prevents the browser from downloading some of the video file to see if it can be played (saves bandwidth)
 codecs - supplies the codec that was used to encode the video. It uses single and double quotes in the type attribute when supplied.
+- If the browser does not support the <video> element or the format of video, it will display whatever is between the opening <video> and closing </video> tags.
