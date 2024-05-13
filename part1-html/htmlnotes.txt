@@ -45,8 +45,8 @@ Ampersand = &amp, &#38
 Registered Trademark = &reg, &#174
 Trademark = &trade, &#8482
 
-Flash Video:
-- Flash player is now defunct, so these notes will focus on HTML5 video instead
+Flash Video and Audio:
+- Flash player is now defunct, so these notes will focus on HTML5 video and audio instead
 
 HTML5 Video:
 <video> - This element is used to add html5 video to a web page. It takes the following attributes:
