@@ -93,3 +93,5 @@ Adding audio using:
 - A Hosting Service
 - Use Flash (No)
 - Use HTML5 (Yes)
+
+Using the <audio> tag is very similar to the <video> tag
