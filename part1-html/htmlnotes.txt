@@ -94,4 +94,9 @@ Adding audio using:
 - Use Flash (No)
 - Use HTML5 (Yes)
 
-Using the <audio> tag is very similar to the <video> tag
+Using the <audio> tag is very similar to the <video> tag, with similar attributes:
+- src
+- controls
+- autoplay
+- preload
+- loop
