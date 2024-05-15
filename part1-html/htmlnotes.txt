@@ -100,3 +100,8 @@ Using the <audio> tag is very similar to the <video> tag, with similar attribute
 - autoplay
 - preload
 - loop
+
+HTML5:Multiple Audio Sources
+The <source> tag accepts:
+MP3: Safari 5+, Chrome 6+, IE9
+Ogg Vorbis: Firefox 3.6, Chome 6, Opera 1.5, IE9
