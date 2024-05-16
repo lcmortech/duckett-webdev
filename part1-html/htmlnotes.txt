@@ -107,4 +107,4 @@ MP3: Safari 5+, Chrome 6+, IE9
 Ogg Vorbis: Firefox 3.6, Chome 6, Opera 1.5, IE9
 Takes:
 - src
-- type
+- type: at the time of writing, it is not commonly used for the audio tag the same way it is for the video tag
