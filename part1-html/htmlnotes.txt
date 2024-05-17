@@ -108,3 +108,7 @@ Ogg Vorbis: Firefox 3.6, Chome 6, Opera 1.5, IE9
 Takes:
 - src
 - type: at the time of writing, it is not commonly used for the audio tag the same way it is for the video tag
+
+Final Notes: 
+- HTML5 introduces new <video> and <audio> elements for adding video and audio to web pages.
+- Browsers that support HTML5 do not all support the same video and audio formats.
