@@ -15,4 +15,10 @@ Boxes:
 Borders (color, width, and style)
 Background color and images
 Position in the browser window.
+Text:
+- Typeface
+- Size
+- Color
+- Italics, bold, uppercase,
+lowercase, small-caps
 
