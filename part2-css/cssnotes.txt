@@ -8,3 +8,11 @@ Review from HTML Notes:
 
 Initial Notes on CSS:
 - CSS allows you to create rules that control the way that each individual box (and the contents of that box) is presented.
+
+Style Examples:
+Boxes:
+- Width and Height
+Borders (color, width, and style)
+Background color and images
+Position in the browser window.
+
