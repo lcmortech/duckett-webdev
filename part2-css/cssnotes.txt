@@ -21,4 +21,7 @@ Text:
 - Color
 - Italics, bold, uppercase,
 lowercase, small-caps
+Specific:
+- There are also specific ways in which you can style certain elements such as lists, tables, and forms.
+
 
