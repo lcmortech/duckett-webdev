@@ -17,8 +17,9 @@ selector {
 
 ex: 
 p {
-    font-family: arial;
+    font-family: Arial;
 }
+- This rule indicates that all <p> elements should be shown in the Arial typeface. 
 
 Style Examples:
 Boxes:
