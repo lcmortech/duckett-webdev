@@ -11,6 +11,15 @@ General Notes on CSS:
 - CSS associates styles rules with HTML elements
 - A CSS rules contains two parts: a selector and a declaration.
 
+selector {
+    declaration;
+}
+
+ex: 
+p {
+    font-family: arial;
+}
+
 Style Examples:
 Boxes:
 - Width and Height
@@ -25,5 +34,3 @@ Text:
 lowercase, small-caps
 Specific:
 - There are also specific ways in which you can style certain elements such as lists, tables, and forms.
-
-
