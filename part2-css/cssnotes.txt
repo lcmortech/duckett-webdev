@@ -22,6 +22,11 @@ p {
 }
 - This rule indicates that all <p> elements should be shown in the Arial typeface. 
 
+h1, h2, h3 {
+    font-family: Arial;
+    color: yellow;
+}
+
 Style Examples:
 Boxes:
 - Width and Height
