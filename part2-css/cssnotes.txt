@@ -12,7 +12,8 @@ General Notes on CSS:
 - A CSS rules contains two parts: a selector and a declaration.
 
 selector {
-    declaration;
+    (declaration)
+    property: value;
 }
 
 ex: 
