@@ -1,6 +1,5 @@
 body {
-	font-family: Arial, Verdana, sans-serif;
-	}
-h1, h2 {
-	color: #665544;
-}
+    font-family: arial;
+    background-color: rgb(185,179,175);}
+h1 {
+    color: rgb(255,255,255);}
