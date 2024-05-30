@@ -46,3 +46,8 @@ Why use external style sheets? When building a website there several advantages 
 - All of your web pages can share the same style sheet. 
 - This is achieved by using the <link> element on each HTML page of your site to link to the same CSS document. 
 - This means that the same code does not need to be repeated in every page (which results in less code and smaller HTML pages).
+
+Sometimes you might consider placing CSS rules in the same page as your HTML code:
+- If you are just creating a single page, you might decide to put the rules in the same file to keep everything in one place. (However, many authors would consider it better practice to keep the CSS in a separate file.)
+- If you have one page which requires a few extra rules (that are not used by the rest of the site), you might consider using CSS in the same page. (Again, most authors consider it better practice to keep all CSS rules in a separate file.)
+- Most of the examples in this book place the CSS rules in the <head> of the document (using the <style> element) rather than a separate document. This is simply to save you opening two files to see how the CSS examples work.
