@@ -41,3 +41,8 @@ Text:
 lowercase, small-caps
 Specific:
 - There are also specific ways in which you can style certain elements such as lists, tables, and forms.
+
+Why use external style sheets? When building a website there several advantages to placng your CSS rules in a separate style sheet:
+- All of your web pages can share the same style sheet. 
+- This is achieved by using the <link> element on each HTML page of your site to link to the same CSS document. 
+- This means that the same code does not need to be repeated in every page (which results in less code and smaller HTML pages).
