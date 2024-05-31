@@ -51,3 +51,10 @@ Sometimes you might consider placing CSS rules in the same page as your HTML cod
 - If you are just creating a single page, you might decide to put the rules in the same file to keep everything in one place. (However, many authors would consider it better practice to keep the CSS in a separate file.)
 - If you have one page which requires a few extra rules (that are not used by the rest of the site), you might consider using CSS in the same page. (Again, most authors consider it better practice to keep all CSS rules in a separate file.)
 - Most of the examples in this book place the CSS rules in the <head> of the document (using the <style> element) rather than a separate document. This is simply to save you opening two files to see how the CSS examples work.
+
+Different versions of CSS:
+- CSS1 was released in 1996 and CSS2 followed two years later. Work on CSS3 has been ongoing but the major browsers have already started to implement it.
+- In the same way that there have been several versions of HTML, there have also been different versions of CSS.
+- Browsers did not implement all CSS features at once, so some older browsers do not support every property.
+- This is mentioned when it is likely to affect you, along with notes where CSS properties might not behave as expected.
+
