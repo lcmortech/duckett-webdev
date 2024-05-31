@@ -57,4 +57,17 @@ Different versions of CSS:
 - In the same way that there have been several versions of HTML, there have also been different versions of CSS.
 - Browsers did not implement all CSS features at once, so some older browsers do not support every property.
 - This is mentioned when it is likely to affect you, along with notes where CSS properties might not behave as expected.
+- Before launching any new site,
+it is important to test it in more than one browser, because there can be slight differences in how browsers display the pages.
+You do not need lots of computers to test your site, as there are online tools to show you what a page looks like in multiple browsers:
+BrowserCam.com 
+BrowserLab.Adobe.com 
+BrowserShots.org 
+CrossBrowserTesting.com
+- Using these tools, it is a good idea to check the site on different operating systems (PC, Mac, and Linux) and in older versions of the major browsers, as well as recent versions.
+- When you look at your site in more than one browser, you might find that some elements on your page do not look as you expect them to.
+When a CSS property does not display as expected, it is generally referred to as a browser quirk or Css bug.
+- Some common browser bugs are discussed in this book, but there are many smaller bugs that only occur in rare situations, or on old browsers that few people use.
+If you come across a CSS bug, you can use your favorite search engine to try and find a solution. Or you can check these sites:
+PositionIsEverything.net QuirksMode.org
 
