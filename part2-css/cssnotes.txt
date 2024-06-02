@@ -72,3 +72,5 @@ If you come across a CSS bug, you can use your favorite search engine to try and
 PositionIsEverything.net 
 QuirksMode.org
 
+CH10 Review:
+- CSS treats each HTML element as if it appears inside its own box and uses rules to indicate how that element should look.
