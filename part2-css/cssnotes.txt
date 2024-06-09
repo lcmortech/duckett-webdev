@@ -90,3 +90,7 @@ Color Values:
 - Saturation - Saturation refers to the amount of gray in a color. At maximum saturation, there would be no gray in the color. At minimum saturation, the color would be mostly gray.
 - Brightness - Brightness (or "value") refers to how much black is in a color. At maximum brightness, there would be no black in the color. At minimum brightness, the color would be very dark.
 
+Contrast: When picking foreground and background colors, it is important to ensure that there is enough contrast for the text to be legible.
+- Low Contrast
+- High Contrast
+- Medium Contrast
