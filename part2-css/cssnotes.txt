@@ -83,10 +83,10 @@ The hex value is provided next to the pound or hash
 - There is also a good color picking tool at: colorschemedesigner.com
 
 Color Values:
-- RGB Values
-- Hex Codes
-- Color Names
-- Hue
-- Saturation
-- Brightness
+- RGB Values - Values for red, green, and blue are expressed as numbers between 0 and 255.
+- Hex Codes - Hex values represent values for red, green, and blue in hexadecimal code.
+- Color Names - Colors are represented by predefined names. However, they are very limited in number.
+- Hue - Hue is near to the colloquial idea of color. Technically speaking however, a color can also have saturation and brightness as well as hue.
+- Saturation - Saturation refers to the amount of gray in a color. At maximum saturation, there would be no gray in the color. At minimum saturation, the color would be mostly gray.
+- Brightness - Brightness (or "value") refers to how much black is in a color. At maximum brightness, there would be no black in the color. At minimum brightness, the color would be very dark.
 
