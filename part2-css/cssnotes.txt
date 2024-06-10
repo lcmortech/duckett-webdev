@@ -91,6 +91,9 @@ Color Values:
 - Brightness - Brightness (or "value") refers to how much black is in a color. At maximum brightness, there would be no black in the color. At minimum brightness, the color would be very dark.
 
 Contrast: When picking foreground and background colors, it is important to ensure that there is enough contrast for the text to be legible.
-- Low Contrast
+- Low Contrast: Text is harder to read when there is low contrast between background and foreground colors.
+- A lack of contrast is particularly a problem for those with
+visual impairments and color blindness.
+- It also affects those with poor monitors and sunlight on their screens (which is increasingly common as people use handheld devices outdoors).
 - High Contrast
 - Medium Contrast
