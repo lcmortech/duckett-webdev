@@ -95,5 +95,6 @@ Contrast: When picking foreground and background colors, it is important to ensu
 - A lack of contrast is particularly a problem for those with
 visual impairments and color blindness.
 - It also affects those with poor monitors and sunlight on their screens (which is increasingly common as people use handheld devices outdoors).
-- High Contrast
+- High Contrast: Text is easier to read when there is higher contrast between background and foreground colors.
+- If you want people to read a lot of text on your page, however, then too much contrast can make it harder to read, too.
 - Medium Contrast
