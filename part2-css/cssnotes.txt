@@ -97,4 +97,5 @@ visual impairments and color blindness.
 - It also affects those with poor monitors and sunlight on their screens (which is increasingly common as people use handheld devices outdoors).
 - High Contrast: Text is easier to read when there is higher contrast between background and foreground colors.
 - If you want people to read a lot of text on your page, however, then too much contrast can make it harder to read, too.
-- Medium Contrast
+- Medium Contrast: For long spans of text, reducing the contrast a little bit improves readability.
+- You can reduce contrast by using dark gray text on a white background or an off-white text on a dark background.
