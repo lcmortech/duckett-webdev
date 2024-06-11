@@ -99,3 +99,6 @@ visual impairments and color blindness.
 - If you want people to read a lot of text on your page, however, then too much contrast can make it harder to read, too.
 - Medium Contrast: For long spans of text, reducing the contrast a little bit improves readability.
 - You can reduce contrast by using dark gray text on a white background or an off-white text on a dark background.
+
+* If text is reversed out (a light color on a dark background), you can increase the height between lines and the weight of the font to make it easier to read.
+* To check contrast there is a handy online tool at: www.snook.ca/technical/colour_contrast/colour.html
