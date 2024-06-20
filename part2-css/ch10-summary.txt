@@ -1,3 +1,4 @@
+Summary 10: Introducting CSS
 - CSS treats each HTML element as if it appears inside its own box and uses rules to indicate how that element should look.
 - Rules are made up of selectors (that specify the elements the rule applies to) and declarations (that indicate what these elements should look like).
 - Different types of selectors allow you to target your rules at different elements.
