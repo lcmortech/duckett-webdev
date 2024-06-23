@@ -149,7 +149,6 @@ Typeface Terminology:
 Serif - Serif fonts have extra details on the ends of the main strokes of the letters. These details are known as serifs.
 Sans-Serif - Sans-serif fonts have straight ends to letters, and therefore have a much cleaner design.
 Monospace - Every letter in a monospace (or fixed-width) font is the same width. (Non-monospace fonts have different widths.)
-
-In print, serif fonts were traditionally used for long passages of text because they were considered easier to read.
-Screens have a lower resolution than print. So, if the text is small, sans-serif fonts can be clearer to read.
-Monospace fonts are commonly used for code because they align nicely, making the text easier to follow.
+- In print, serif fonts were traditionally used for long passages of text because they were considered easier to read.
+- Screens have a lower resolution than print. So, if the text is small, sans-serif fonts can be clearer to read.
+- Monospace fonts are commonly used for code because they align nicely, making the text easier to follow.
