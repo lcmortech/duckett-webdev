@@ -152,3 +152,7 @@ Monospace - Every letter in a monospace (or fixed-width) font is the same width.
 - In print, serif fonts were traditionally used for long passages of text because they were considered easier to read.
 - Screens have a lower resolution than print. So, if the text is small, sans-serif fonts can be clearer to read.
 - Monospace fonts are commonly used for code because they align nicely, making the text easier to follow.
+
+Fonts:
+Weight - The font weight not only adds emphasis but can also affect the amount of white space and contrast on a page.
+- Italic fonts have a cursive aspect to some of the lettering. Oblique font styles take the normal style and put it on an angle.
