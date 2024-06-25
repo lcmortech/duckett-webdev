@@ -158,3 +158,18 @@ Weight - The font weight not only adds emphasis but can also affect the amount o
 Style - Italic fonts have a cursive aspect to some of the lettering. Oblique font styles take the normal style and put it on an angle.
 Stretch - In condensed (or narrow) versions of the font, letters are thinner and closer together. In expanded versions they are thicker and further apart.
 
+Weight:
+- Light
+- Medium
+- Bold
+- Black
+
+Style:
+- Normal
+- Italic
+- Oblique
+
+Stretch:
+- Condensed
+- Regular
+- Extended
