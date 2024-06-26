@@ -154,7 +154,12 @@ Monospace - Every letter in a monospace (or fixed-width) font is the same width.
 - Monospace fonts are commonly used for code because they align nicely, making the text easier to follow.
 
 Fonts: Weight, Style, Stretch
-Weight - The font weight not only adds emphasis but can also affect the amount of white space and contrast on a page.
+Weight:
+Light
+Medium
+Bold
+Black
+ - The font weight not only adds emphasis but can also affect the amount of white space and contrast on a page.
 Style - Italic fonts have a cursive aspect to some of the lettering. Oblique font styles take the normal style and put it on an angle.
 Stretch - In condensed (or narrow) versions of the font, letters are thinner and closer together. In expanded versions they are thicker and further apart.
 
