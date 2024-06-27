@@ -174,3 +174,6 @@ Regular
 Extended
  - In condensed (or narrow) versions of the font, letters are thinner and closer together. 
  - In expanded versions they are thicker and further apart.
+
+ Choosing a Typeface for your Website:
+ - When choosing a typeface, it is important to understand that a browser will usually only display it if it's installed on that user's computer.
