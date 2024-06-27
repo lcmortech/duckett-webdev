@@ -177,3 +177,9 @@ Extended
 
  Choosing a Typeface for your Website:
  - When choosing a typeface, it is important to understand that a browser will usually only display it if it's installed on that user's computer.
+
+ Serif - Serif fonts have extra details on the end of the main strokes of the letters.
+ Ex: Georgia, Times, Times New Roman
+
+ Sans-Serif - Sans-serif fonts have straight ends to letters and therefore have a much cleaner design.
+ Ex: Arial, Verdana, Helvetica
