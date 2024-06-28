@@ -183,3 +183,5 @@ Extended
 
  Sans-Serif - Sans-serif fonts have straight ends to letters and therefore have a much cleaner design.
  Ex: Arial, Verdana, Helvetica
+
+ * As a result, sites often use a small set of typefaces that are installed on most computers (shown above). There are some techniques to get around this limitation (which are covered on pages 271-272).
