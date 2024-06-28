@@ -185,3 +185,4 @@ Extended
  Ex: Arial, Verdana, Helvetica
 
  * As a result, sites often use a small set of typefaces that are installed on most computers (shown above). There are some techniques to get around this limitation (which are covered on pages 271-272).
+* It is possible to specify more than one typeface and create an order of preference (in case the user does not have your first choice of typeface installed). This is sometimes referred to as a font stack.
