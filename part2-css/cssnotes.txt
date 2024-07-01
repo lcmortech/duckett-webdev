@@ -206,3 +206,9 @@ Covered on - Pages 273-374
 Issues - There is a limited choice of typefaces that most users have installed.
 Licensing - You are not distributing the typeface, so there is no licensing issue.
 Choice of Typefaces - There is a limited choice because the font needs to be installed on users' computers.
+
+Font-Face:
+- CSS specifies where a font can be downloaded from if it is not installed on the computer.
+Covered on - Pages 277-278
+Issues - The user has to download the font file, which can slow down loading of the web page.
+Choice of Typefaces - Choice is limited because few typefaces can be freely distributed this way.
