@@ -212,3 +212,9 @@ Font-Face:
 Covered on - Pages 277-278
 Issues - The user has to download the font file, which can slow down loading of the web page.
 Choice of Typefaces - Choice is limited because few typefaces can be freely distributed this way.
+
+Service-Based Font-Face:
+- Commercial services give users access to a wider range of fonts using @font-face.
+Covered on - Pages 277-278
+Issues - There is an ongoing fee to cover licenses paid to font foundries.
+
