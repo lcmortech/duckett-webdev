@@ -217,4 +217,5 @@ Service-Based Font-Face:
 - Commercial services give users access to a wider range of fonts using @font-face.
 Covered on - Pages 277-278
 Issues - There is an ongoing fee to cover licenses paid to font foundries.
-
+Licensing - The service takes care of the licensing issues with the people who made the font.
+Choices of Typefaces - Each service offers a different choice of fonts based on their agreements with font foundries.
