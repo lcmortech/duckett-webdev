@@ -221,3 +221,12 @@ Licensing - The service takes care of the licensing issues with the people who m
 Choices of Typefaces - Each service offers a different choice of fonts based on their agreements with font foundries.
 
 * If you design on a Mac, it is important to check what the typefaces look like on a PC because PCs can render type less smoothly. But if you design on a PC, then it should look fine on a Mac.
+
+Additional Techniques:
+Images:
+- You can create a graphic that contains the text as you want it to appear in a different typeface.
+Covered on - Pages 99-100 and 109-113
+Issues - Excludes people who use screen readers
+will rely on the alt text to know what is said.
+Licensing - You can use any typeface that you have a license to use on your computer (because you are not distributing the typeface).
+Choice of Typefaces - Very wide choice because you can use any typeface that you have a license for.
