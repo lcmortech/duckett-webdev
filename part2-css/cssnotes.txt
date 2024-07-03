@@ -219,3 +219,5 @@ Covered on - Pages 277-278
 Issues - There is an ongoing fee to cover licenses paid to font foundries.
 Licensing - The service takes care of the licensing issues with the people who made the font.
 Choices of Typefaces - Each service offers a different choice of fonts based on their agreements with font foundries.
+
+* If you design on a Mac, it is important to check what the typefaces look like on a PC because PCs can render type less smoothly. But if you design on a PC, then it should look fine on a Mac.
