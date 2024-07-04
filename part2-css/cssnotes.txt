@@ -223,6 +223,7 @@ Choices of Typefaces - Each service offers a different choice of fonts based on 
 * If you design on a Mac, it is important to check what the typefaces look like on a PC because PCs can render type less smoothly. But if you design on a PC, then it should look fine on a Mac.
 
 Additional Techniques:
+* Not suitable for long passages of text
 Images:
 - You can create a graphic that contains the text as you want it to appear in a different typeface.
 Covered on - Pages 99-100 and 109-113
@@ -231,8 +232,17 @@ will rely on the alt text to know what is said.
 Licensing - You can use any typeface that you have a license to use on your computer (because you are not distributing the typeface).
 Choice of Typefaces - Very wide choice because you can use any typeface that you have a license for.
 
-SIFR (defunct):
+SIFR(defunct):
 - The font is embedded into a Flash movie, and JavaScript replaces specified HTML text with a flash version of it.The font is embedded into a Flash movie, and JavaScript replaces specified HTML text with a flash version of it.
 Covered on - See website for more details 
 Issues - This method only works if the user has Flash and JavaScript enabled on their device.
 Choice of Typefaces - This method provides a lot of choice because many of the major typeface manufacturers permit this kind of usage.
+
+CUFON:
+Cufon offers similar functionality to sIFR. It uses JavaScript to create either an SVG or VML version of the text.
+Covered on - See website for more details
+Issues - Requires JavaScript to be enabled. Also, users cannot select text, and text can't change when a user hovers over it.
+Licensing - As with SIFR, some typeface makers allow use of their fonts with CUFON, but you need to check the license.
+Choice of Typefaces - Slightly less choice than for SIFR, as some typeface manufacturers are not as keen on this technique.
+
+
