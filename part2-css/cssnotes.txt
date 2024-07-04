@@ -230,3 +230,9 @@ Issues - Excludes people who use screen readers
 will rely on the alt text to know what is said.
 Licensing - You can use any typeface that you have a license to use on your computer (because you are not distributing the typeface).
 Choice of Typefaces - Very wide choice because you can use any typeface that you have a license for.
+
+SIFR (defunct):
+- The font is embedded into a Flash movie, and JavaScript replaces specified HTML text with a flash version of it.The font is embedded into a Flash movie, and JavaScript replaces specified HTML text with a flash version of it.
+Covered on - See website for more details 
+Issues - This method only works if the user has Flash and JavaScript enabled on their device.
+Choice of Typefaces - This method provides a lot of choice because many of the major typeface manufacturers permit this kind of usage.
