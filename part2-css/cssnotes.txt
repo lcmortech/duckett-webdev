@@ -276,5 +276,5 @@ You may have noticed that programs such as Word, Photoshop and InDesign offer th
 - It is considered that this scale for type is pleasing to the eye and it has therefore changed little in the last 400 years.
 - For this reason, when you are designing pages, using sizes from this scale will help them look more attractive.
 On the next page, you can see how to achieve this scale using pixels, percentages, and ems.
-- Print designers often refer to the size of text in terms of points rather than pixels (hence the use of pt in the scale on the right). A pixel roughly equates to a point because a point corresponds to 1/72 of an inch, and most computer displays have a resolution of 72 dots per
+- Print designers often refer to the size of text in terms of points rather than pixels (hence the use of pt in the scale on the right). A pixel roughly equates to a point because a point corresponds to 1/72 of an inch, and most computer displays have a resolution of 72 dots per inch.
 
