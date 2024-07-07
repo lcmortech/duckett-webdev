@@ -278,3 +278,15 @@ You may have noticed that programs such as Word, Photoshop and InDesign offer th
 On the next page, you can see how to achieve this scale using pixels, percentages, and ems.
 - Print designers often refer to the size of text in terms of points rather than pixels (hence the use of pt in the scale on the right). A pixel roughly equates to a point because a point corresponds to 1/72 of an inch, and most computer displays have a resolution of 72 dots per inch.
 
+The default size of text in a
+browser is 16 pixels. So if you
+use percentages or ems, you calculate the size of text you
+want based on the default size
+of the text used in browsers.
+For example, you could scale
+down to 12 pixels for body copy
+and scale up to 24 pixels for
+headings.
+Recently, some web designers have started to leave the body text at the default size of 16 pixels and adjust the other font sizes using a scale that keeps the relative proportions of this one.
+When you first see body text at 16 pixels, it might seem quite large. Once you get used to
+the larger type, however, most people find it far easier to read; and going back to a page where main type is 12 pixels will often then look quite small.
