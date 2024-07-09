@@ -282,4 +282,8 @@ On the next page, you can see how to achieve this scale using pixels, percentage
 Recently, some web designers have started to leave the body text at the default size of 16 pixels and adjust the other font sizes using a scale that keeps the relative proportions of this one.
 - When you first see body text at 16 pixels, it might seem quite large. Once you get used to the larger type, however, most people find it far easier to read; and going back to a page where main type is 12 pixels will often then look quite small.
 
-Units of Type Size: Pixel, Percentages, Ems
+Units of Type Size: Pixels, Percentages, Ems
+
+Pixels - Setting font size in pixels is the best way to ensure that the type appears at the size you intended (because percentages and ems are more likely to vary if a user has changed the default size of text in their browser).
+- Pixels are relative to the resolution of the screen, so the same type size will look larger when a screen has a resolution of 800x600 than it would when it is 1280x800.
+- You can also use pt for point sizes instead of px for pixels, but you should only do this when creating style sheets for printer- friendly versions of pages.
