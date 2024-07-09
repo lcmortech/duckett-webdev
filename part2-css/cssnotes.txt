@@ -281,3 +281,5 @@ On the next page, you can see how to achieve this scale using pixels, percentage
 - For example, you could scale down to 12 pixels for body copy and scale up to 24 pixels for headings.
 Recently, some web designers have started to leave the body text at the default size of 16 pixels and adjust the other font sizes using a scale that keeps the relative proportions of this one.
 - When you first see body text at 16 pixels, it might seem quite large. Once you get used to the larger type, however, most people find it far easier to read; and going back to a page where main type is 12 pixels will often then look quite small.
+
+Units of Type Size: Pixel, Percentages, Ems
