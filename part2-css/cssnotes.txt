@@ -298,3 +298,16 @@ font-family:
 
 src:
 - This specifies the path to the font. In order for this technique to work in all browsers, you will probably need to specify paths to a few different versions of the font, as shown on the next page.
+
+format:
+- This specifies the format that the font is supplied in. (It's discussed in detail on the next page.)
+Many typeface makers do not allow you to use their fonts in this way, but there are open source fonts you can use freely. You can find lists of them at:
+www.fontsquirrel.com 
+www.fontex.org
+www.openfontlibrary.org
+When looking at fonts on these sites, it is still important to check the font's license agreement because some fonts are only free for personal use (that is, not for use on commercial websites).
+There are some sites that give you access to use commercial fonts, because they negotiated permission to let their customers use these fonts for a fee:
+www.typekit.com 
+www.kernest.com
+www.fontspring.com
+Google also provides open source fonts. Rather than adding the @font-face rule to your own style sheet, you link to a CSS file and font files on their servers: www.google.com/webfonts
