@@ -295,3 +295,6 @@ You add the font to your style sheet using the @font-face rule, as shown on the 
 
 font-family:
 - This specifies the name of the font. This name can then be used as a value of the font-family property in the rest of the style sheet (as shown in the rule for the <h1> and <h2> elements).
+
+src:
+- This specifies the path to the font. In order for this technique to work in all browsers, you will probably need to specify paths to a few different versions of the font, as shown on the next page.
