@@ -313,3 +313,9 @@ www.fontspring.com
 Google also provides open source fonts. Rather than adding the @font-face rule to your own style sheet, you link to a CSS file and font files on their servers: www.google.com/webfonts
 
 Understanding Font Formats:
+Different browsers support different formats for fonts
+(in the same way that they support different audio and video formats), so you will need to supply the font in several variations to reach all browsers.
+If you do not have all of these formats for your font, you can upload the font to a website called FontSquirrel where they will convert it for you:
+w w w.f o n t s q u ir r el.c o m / fontface/generator
+Font Squirrel also provides you with the CSS code for the @font-face rule. This is very helpful because, when you
+are dealing with multiple font formats, the src and format properties of the @font-face rule can get rather complicated.
