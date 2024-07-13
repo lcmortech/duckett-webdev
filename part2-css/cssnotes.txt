@@ -311,3 +311,5 @@ www.typekit.com
 www.kernest.com
 www.fontspring.com
 Google also provides open source fonts. Rather than adding the @font-face rule to your own style sheet, you link to a CSS file and font files on their servers: www.google.com/webfonts
+
+Understanding Font Formats:
