@@ -322,10 +322,11 @@ are dealing with multiple font formats, the src and format properties of the @fo
 
 font-weight: normal, bold
 - The font-weight property allows you to create bold text. There are two values that this property commonly takes:
+
 normal:
 This causes text to appear at a normal weight.
 
 bold:
-This causes text to appear bold.
+- This causes text to appear bold.
 In this example, you can see that the element whose class attribute has a value of credits has been bolded.
 You might wonder why there is a normal weight. This is because if, for example, you created a rule for the <body> element indicating that all text inside the body should appear bold, you might need an option that allows the text in certain instances to appear normal weight. So it is essentially used as an "off switch".
