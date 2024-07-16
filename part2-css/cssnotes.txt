@@ -332,3 +332,12 @@ In this example, you can see that the element whose class attribute has a value 
 You might wonder why there is a normal weight. This is because if, for example, you created a rule for the <body> element indicating that all text inside the body should appear bold, you might need an option that allows the text in certain instances to appear normal weight. So it is essentially used as an "off switch".
 
 font-style: normal, italic, oblique
+- If you want to create italic text, you can use the font-style property. There are three values this property can take:
+
+normal - This causes text to appear in a normal style (as opposed to italic or oblique).
+italic - This causes text to appear italic.
+oblique - This causes text to appear oblique.
+In this example, you can see that the credits have been italicized.
+
+* Italic fonts were traditionally stylized versions of the font based on calligraphy, whereas an oblique version would take the normal version and put it on an angle.
+* It is not unusual for the browser to fail to find an italic version of a typeface, in which case it will use an algorithm to place the normal version of the type on a slant, which means that a lot of italic text online is actually oblique.
