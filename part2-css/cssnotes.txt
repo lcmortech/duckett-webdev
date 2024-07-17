@@ -341,3 +341,5 @@ In this example, you can see that the credits have been italicized.
 
 * Italic fonts were traditionally stylized versions of the font based on calligraphy, whereas an oblique version would take the normal version and put it on an angle.
 * It is not unusual for the browser to fail to find an italic version of a typeface, in which case it will use an algorithm to place the normal version of the type on a slant, which means that a lot of italic text online is actually oblique.
+
+text-transform: uppercase and lowercase
