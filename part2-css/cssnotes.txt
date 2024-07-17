@@ -343,3 +343,9 @@ In this example, you can see that the credits have been italicized.
 * It is not unusual for the browser to fail to find an italic version of a typeface, in which case it will use an algorithm to place the normal version of the type on a slant, which means that a lot of italic text online is actually oblique.
 
 text-transform: uppercase and lowercase
+- The text-transform property is used to change the case of text giving it one of the following values:
+uppercase - This causes the text to appear uppercase.
+lowercase - This causes the text to appear lowercase.
+capitalize - This causes the first letter of each word to appear capitalized.
+* In this example, the <h1> element is uppercase, the <h2> element is lowercase, and the credits are capitalized. In the HTML, the word by in the credits had a lowercase b.
+If you do utilize the uppercase option, it is worth looking at the letter-spacing property to increase the gap between each letter as shown on page 284. This will help improve
