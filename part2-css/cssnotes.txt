@@ -349,3 +349,5 @@ lowercase - This causes the text to appear lowercase.
 capitalize - This causes the first letter of each word to appear capitalized.
 * In this example, the <h1> element is uppercase, the <h2> element is lowercase, and the credits are capitalized. In the HTML, the word by in the credits had a lowercase b.
 If you do utilize the uppercase option, it is worth looking at the letter-spacing property to increase the gap between each letter as shown on page 284. This will help improve readability.
+
+text-decoration: none, underline, overline, linethrough, blink
