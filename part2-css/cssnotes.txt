@@ -351,3 +351,10 @@ capitalize - This causes the first letter of each word to appear capitalized.
 If you do utilize the uppercase option, it is worth looking at the letter-spacing property to increase the gap between each letter as shown on page 284. This will help improve readability.
 
 text-decoration: none, underline, overline, linethrough, blink
+- The text-decoration property allows you to specify the following values:
+none - This removes any decoration already applied to the text.
+underline - This adds a line underneath the text.
+overline - This adds a line over the top of the text.
+line-through - This adds a line through words.
+blink - This animates the text to make it flash on and off (however this is generally frowned upon, as it is considered rather annoying).
+- In this example, the credits have been underlined. Also, the name of the breed (which is a link) is not underlined, which it would be by default because it is a link.
