@@ -358,3 +358,6 @@ overline - This adds a line over the top of the text.
 line-through - This adds a line through words.
 blink - This animates the text to make it flash on and off (however this is generally frowned upon, as it is considered rather annoying).
 - In this example, the credits have been underlined. Also, the name of the breed (which is a link) is not underlined, which it would be by default because it is a link.
+
+* This property is commonly used by designers to remove
+the underlines that browsers place under links. Pages 290-291 show how to add or remove an underline when a user hovers over a link.
