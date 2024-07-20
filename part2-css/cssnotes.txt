@@ -361,3 +361,7 @@ blink - This animates the text to make it flash on and off (however this is gene
 
 * This property is commonly used by designers to remove
 the underlines that browsers place under links. Pages 290-291 show how to add or remove an underline when a user hovers over a link.
+
+Leading/line-height:
+- Leading (pronounced ledding) is a term typographers use for the vertical space between lines of text. In a typeface, the part of a letter that drops beneath the baseline is called a descender, while the highest point of a letter is called the ascender. 
+- Leading is measured from the bottom of the descender on one line to the top of the ascender on the next.
