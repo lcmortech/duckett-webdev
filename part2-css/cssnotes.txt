@@ -373,4 +373,6 @@ an entire line of text, so the difference between the font- size and the line-he
 - Because users can adjust the default size of text in their
 browser, the value of the line- height property is best given in ems, not pixels, so that the gap between lines is relative to the size of text the user has selected.
 
-ex: p {line-height: 1.4em;}
+ex: p {
+    	line-height: 1.4em;
+	  }
