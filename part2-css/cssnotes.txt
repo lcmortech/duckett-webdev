@@ -376,3 +376,6 @@ browser, the value of the line- height property is best given in ems, not pixels
 ex: p {
     	line-height: 1.4em;
 	  }
+
+
+Kerning - is the term typographers use for the space between each letter. You can control the space between each letter with the letter-spacing property.
