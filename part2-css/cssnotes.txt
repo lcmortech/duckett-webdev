@@ -387,3 +387,6 @@ be given in ems, and it will be added on top of the default value specified by t
 The default gap between words is set by the typeface (often around 0.25em), and
 it is unlikely that you would need to change this property regularly. If the typeface is bold or you have increased the space between letters, then a larger gap between words can increase readability.
 
+Alignment: text-align
+- The text-align property allows you to control the alignment of text. The property can take one of four values: left, right, center, justify
+
