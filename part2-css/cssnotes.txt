@@ -389,4 +389,8 @@ it is unlikely that you would need to change this property regularly. If the typ
 
 Alignment: text-align
 - The text-align property allows you to control the alignment of text. The property can take one of four values: left, right, center, justify
+left - This indicates that the text should be left-aligned.
+right - This indicates that the text should be right-aligned.
+center - This allows you to center text.
+justify - This indicates that every line in a paragraph, except the last line, should be set to take up the full width of the containing box. (helps with understanding flexbox and css grid later on)
 
