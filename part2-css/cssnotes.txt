@@ -394,3 +394,7 @@ right - This indicates that the text should be right-aligned.
 center - This allows you to center text.
 justify - This indicates that every line in a paragraph, except the last line, should be set to take up the full width of the containing box. (helps with understanding flexbox and css grid later on)
 
+* When you have several paragraphs of text, it is considered easiest to read if the text is left-aligned.
+* Justified text looks at the words on each individual line and creates an equal gap between those words. It can look odd
+if you end up with large gaps between some words and smaller gaps between others. This often happens when your lines are not very wide or when your text contains long words.
+
