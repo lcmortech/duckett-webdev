@@ -398,3 +398,6 @@ justify - This indicates that every line in a paragraph, except the last line, s
 * Justified text looks at the words on each individual line and creates an equal gap between those words. It can look odd
 if you end up with large gaps between some words and smaller gaps between others. This often happens when your lines are not very wide or when your text contains long words.
 
+ Vertical Alignment: vertical-align
+ 
+
