@@ -416,3 +416,9 @@ Indenting Text: text-indent
 - The text-indent property allows you to indent the first line of text within an element. The amount you want the line indented by can be specified in a number of ways but is usually given in pixels or ems.
 - It can take a negative value, which means it can be used
 to push text off the browser window. You can see this technique used in this example, where the <h1> element uses a background image to represent the heading. The text has been moved far to the left, off the screen. (Background images are covered on pages 413-418.)
+h1 {
+  background-image: url("images/logo.gif");
+  background-repeat: no-repeat;
+  text-indent: -9999px;}
+.credits {
+  text-indent: 20px;}
