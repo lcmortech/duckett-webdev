@@ -411,3 +411,5 @@ middle
 bottom
 text-bottom
 It can also take a *length (usually specified in pixels or ems) or a *percentage of the line height.
+
+Indenting Text: text-indent
