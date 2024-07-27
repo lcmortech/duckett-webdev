@@ -413,3 +413,4 @@ text-bottom
 It can also take a *length (usually specified in pixels or ems) or a *percentage of the line height.
 
 Indenting Text: text-indent
+- The text-indent property allows you to indent the first line of text within an element. The amount you want the line indented by can be specified in a number of ways but is usually given in pixels or ems.
