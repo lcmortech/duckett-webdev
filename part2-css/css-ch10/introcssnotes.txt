@@ -1,0 +1,73 @@
+Extra Notes on CSS
+
+Review from HTML Notes:
+- Block level elements look like they start on a new line.
+- Examples include the <h1> - <h6>, <p> and <div> elements.
+- Inline elements flow within the text and do not start on a new line. 
+- Examples include <b>, <i>, <img>, <em> and <span>.
+
+General Notes on CSS:
+- CSS allows you to create rules that control the way that each individual box (and the contents of that box) is presented.
+- CSS associates styles rules with HTML elements
+- A CSS rules contains two parts: a selector and a declaration.
+
+selector {
+    (declaration)
+    property: value;
+}
+
+ex: 
+p {
+    font-family: Arial;
+}
+- This rule indicates that all <p> elements should be shown in the Arial typeface. 
+
+h1, h2, h3 {
+    font-family: Arial;
+    color: yellow;
+}
+
+Style Examples:
+Boxes:
+- Width and Height
+Borders (color, width, and style)
+Background color and images
+Position in the browser window.
+Text:
+- Typeface
+- Size
+- Color
+- Italics, bold, uppercase,
+lowercase, small-caps
+Specific:
+- There are also specific ways in which you can style certain elements such as lists, tables, and forms.
+
+Why use external style sheets? When building a website there several advantages to placng your CSS rules in a separate style sheet:
+- All of your web pages can share the same style sheet. 
+- This is achieved by using the <link> element on each HTML page of your site to link to the same CSS document. 
+- This means that the same code does not need to be repeated in every page (which results in less code and smaller HTML pages).
+
+Sometimes you might consider placing CSS rules in the same page as your HTML code:
+- If you are just creating a single page, you might decide to put the rules in the same file to keep everything in one place. (However, many authors would consider it better practice to keep the CSS in a separate file.)
+- If you have one page which requires a few extra rules (that are not used by the rest of the site), you might consider using CSS in the same page. (Again, most authors consider it better practice to keep all CSS rules in a separate file.)
+- Most of the examples in this book place the CSS rules in the <head> of the document (using the <style> element) rather than a separate document. This is simply to save you opening two files to see how the CSS examples work.
+
+Different versions of CSS:
+- CSS1 was released in 1996 and CSS2 followed two years later. Work on CSS3 has been ongoing but the major browsers have already started to implement it.
+- In the same way that there have been several versions of HTML, there have also been different versions of CSS.
+- Browsers did not implement all CSS features at once, so some older browsers do not support every property.
+- This is mentioned when it is likely to affect you, along with notes where CSS properties might not behave as expected.
+- Before launching any new site,
+it is important to test it in more than one browser, because there can be slight differences in how browsers display the pages.
+You do not need lots of computers to test your site, as there are online tools to show you what a page looks like in multiple browsers:
+BrowserCam.com 
+BrowserLab.Adobe.com 
+BrowserShots.org 
+CrossBrowserTesting.com
+- Using these tools, it is a good idea to check the site on different operating systems (PC, Mac, and Linux) and in older versions of the major browsers, as well as recent versions.
+- When you look at your site in more than one browser, you might find that some elements on your page do not look as you expect them to.
+When a CSS property does not display as expected, it is generally referred to as a browser quirk or Css bug.
+- Some common browser bugs are discussed in this book, but there are many smaller bugs that only occur in rare situations, or on old browsers that few people use.
+If you come across a CSS bug, you can use your favorite search engine to try and find a solution. Or you can check these sites:
+PositionIsEverything.net 
+QuirksMode.org
