@@ -280,4 +280,7 @@ h1 {
   background-repeat: no-repeat;
   text-indent: -9999px;}
 .credits {
-  text-indent: 20px;}
+  text-indent: 20px;} *
+  
+  We still want the heading text to be on the page (for search engines and those who cannot see the image), but we cannot have it displayed on top of the logo or it will be unreadable. By pushing it 9,999 pixels to the left, it is way out of sight but still in the HTML code.
+* The second rule in this example indents the credits 20 pixels to the right.
