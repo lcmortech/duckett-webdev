@@ -284,3 +284,13 @@ h1 {
   
   We still want the heading text to be on the page (for search engines and those who cannot see the image), but we cannot have it displayed on top of the logo or it will be unreadable. By pushing it 9,999 pixels to the left, it is way out of sight but still in the HTML code.
 * The second rule in this example indents the credits 20 pixels to the right.
+
+CSS3: DROP SHADOW - text-shadow
+- The text-shadow property has become commonly used despite lacking support in all browsers.
+It is used to create a drop shadow, which is a dark version of the word just behind it and slightly offset. It can also be used to create an embossed effect by adding a shadow that is slightly lighter than the text.
+- The value of this property is quite complicated because it can take three lengths and a color for the drop shadow:
+	- The first length indicates how far to the left or right the shadow should fall.
+	- The second value indicates the distance to the top or bottom that the shadow should fall.
+	- The third value is optional and specifies the amount of blur that should be applied to the drop shadow.
+	- The fourth value is the color of the drop shadow.
+- The text-shadow property has become very popular but at the time of writing it was not supported in any versions of Internet Explorer (currently IE9). Other browser makers introduced it in Firefox 3.1, Safari 3, Chrome 2 and Opera 9.5.
