@@ -316,7 +316,10 @@ p.five {
   color: #ffffff;
   text-shadow: -1px -1px #666666;}
 
-  First Letter, First Line: first-letter, first-line
+  First Letter, First Line: :first-letter:, :first-line:
   - You can specify different values for the first letter or first line of text inside an element using :first-letter and :first-line.
+- Technically these are not properties. They are known as pseudo-elements.
+You specify the pseudo-element at the end of the selector, and then specify the declarations as you would normally for any other element.
+It is worth trying this example in your browser so that you can see how the first-line pseudo- element will only affect the first line of text, even if you resize your browser window and less or more words appear on each line.
 
   
