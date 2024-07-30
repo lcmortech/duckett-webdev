@@ -315,3 +315,8 @@ p.five {
   background-color: #aaaaaa;
   color: #ffffff;
   text-shadow: -1px -1px #666666;}
+
+  First Letter, First Line: first-letter, first-line
+  - You can specify different values for the first letter or first line of text inside an element using :first-letter and :first-line.
+
+  
